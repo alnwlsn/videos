@@ -1,0 +1,39 @@
+Found a IBM Selectric II typewriter in the trash and decided to convert it 
+to connect to a computer. Managed to take a whole bunch of pictures and 
+short videos, so I had to make a full video about it.
+
+Link to 3D files and firmware:
+- https://github.com/alnwlsn/videos/tree/main/selectric
+
+A pile of links that were sourced for this project. Most of these are 
+either public domain or CC.
+
+https://en.wikipedia.org/wiki/IBM_Selectric?useskin=vector#/media/File:Michael_Holley_Computer_1978_NWCN.jpg
+https://en.wikipedia.org/wiki/IBM_Selectric?useskin=vector#/media/File:IBM_Electronic_Selectric_Composer_with_accessories.jpg
+https://en.wikipedia.org/wiki/IBM_Selectric?useskin=vector#/media/File:IBM_Magnetic_Tape-Selectric_Typewriter_in_use.jpg
+https://en.wikipedia.org/wiki/IBM_Selectric?useskin=vector#/media/File:IBM_Selectric_II.jpg
+https://selectric.org/selectric/index.html
+https://en.wikipedia.org/wiki/IBM_2741?useskin=vector#/media/File:IBM_2741_(I197205).png 
+https://en.wikipedia.org/wiki/IBM_2741?useskin=vector#/media/File:IBM_2741_Communications_Terminal.jpg
+https://www.curiousmarc.com/mechanical/ibm-selectric
+https://www.youtube.com/watch?v=NUpl2FTgvUI
+https://vintagecomputer.ca/escon-selectric-kit/
+https://blog.bruchez.name/posts/ibm-memory-typewriter/
+https://www.cryptomuseum.com/covert/bugs/selectric/
+https://www.youtube.com/watch?v=bW_jJjUarp0
+https://en.wikipedia.org/wiki/Telephone?useskin=vector#/media/File:AT&T_push_button_telephone_western_electric_model_2500_dmg_black.jpg
+https://en.wikipedia.org/wiki/Teleprinter?useskin=vector#/media/File:Telex_machine_ASR-32.jpg
+https://en.wikipedia.org/wiki/Teleprinter?useskin=vector#/media/File:Siemens_t37h_without_cover.jpg
+https://en.wikipedia.org/wiki/Teleprinter?useskin=vector#/media/File:Telescrivente_CEP_-_Calcolatrice_Elettronica_Pisana.jpg
+https://en.wikipedia.org/wiki/Teleprinter?useskin=vector#/media/File:Fernscheiber_01.jpg
+https://en.wikipedia.org/wiki/Teleprinter?useskin=vector#/media/File:ASR-33_at_CHM.agr.jpg
+https://www.youtube.com/watch?v=4_WfQoKRlxE
+https://en.wikipedia.org/wiki/IBM_System/360_Model_50#/media/File:IBM_system_360-50_console_-_MfK_Bern.jpg
+https://www.youtube.com/watch?v=z0U_q_TZmAc 
+https://en.wikipedia.org/wiki/NeXT_Computer#/media/File:First_Web_Server.jpg
+https://line-mode.cern.ch 
+https://hackaday.com/2023/04/11/ibm-selectric-typewriters-finally-get-diy-typeballs/
+http://info.cern.ch/LMBrowser.html
+
+All further material that I personally produced for this project I herby 
+license as (CC BY-SA 4.0)
